@@ -291,8 +291,8 @@ groups:
   - VR
 abundance:
   VR:
-    - 1.96e-6
-    - 4.34e-5
+    - 5.30e-7
+    - 6.90e-6
 x_label_mult:
   VR: 1.5e+5
 y_label_mult:
